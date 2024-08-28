@@ -7,7 +7,7 @@ steps:
     title: Cloning main repository...
     stage: checkout
     type: git-clone
-    repo: 'codefresh-contrib/c-sample-app'
+    repo: 'tamirdahan/c-sample-app'
     revision: master
     git: github
   compile_my_sources:
